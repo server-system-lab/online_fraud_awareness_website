@@ -9,7 +9,7 @@ This project combines a public website with a 3D animated video to explain commo
 ## Website
 
 Access the platform here:  
-https://novashieldai-maker.github.io/website/
+https://server-system-lab.github.io/online_fraud_awareness_website/
 
 The website presents:
 - Common types of online fraud
