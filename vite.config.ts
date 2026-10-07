@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/website/',       // adiciona isto 👈
+  base: '/online_fraud_awareness_website/',
   plugins: [tailwindcss()],
 })

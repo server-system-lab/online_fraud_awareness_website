@@ -1,9 +1,7 @@
-import 'aos/dist/aos.css'
-import AOS from 'aos'
+import './style.css'
 
-AOS.init({
-  duration: 700,
-  easing: 'ease-out',
-  offset: 80,
-  once: true,
-})
+const year = document.getElementById('ano')
+
+if (year) {
+  year.textContent = new Date().getFullYear()
+}
